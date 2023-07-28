@@ -17,7 +17,7 @@ namespace Vannabis
     {
         public const string PluginGUID = "com.sicksicksix.Vannabis";
         public const string PluginName = "Vannabis";
-        public const string PluginVersion = "0.0.2";
+        public const string PluginVersion = "0.0.5";
 
         // Use this class to add your own localization to the game
         // https://valheim-modding.github.io/Jotunn/tutorials/localization.html
