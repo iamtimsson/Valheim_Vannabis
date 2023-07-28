@@ -90,8 +90,8 @@
     <None Include="app.config" />
     <None Include="packages.config" />
     <EmbeddedResource Include="AssetBundles\vannabis" />
-    <None Include="README.md" />
     <EmbeddedResource Include="Localization.English.json" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="package\plugins\" />
