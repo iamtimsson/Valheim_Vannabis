@@ -89,7 +89,7 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <EmbeddedResource Include="Package\AssetBundles\vannabis" />
+    <EmbeddedResource Include="AssetBundles\vannabis" />
     <None Include="README.md" />
     <EmbeddedResource Include="Localization.English.json" />
   </ItemGroup>
