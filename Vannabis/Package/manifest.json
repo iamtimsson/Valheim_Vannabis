@@ -1,0 +1,9 @@
+﻿{
+  "name": "Vannabis",
+  "description": "Was told that the Valweed plug ran dry on the 3.45f unity update much love",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/iamtimsson/Vannabis",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.7.9"
+  ]
+}
